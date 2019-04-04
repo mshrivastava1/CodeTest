@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="misc"/>
+	<classpathentry kind="src" path="trees"/>
+	<classpathentry kind="src" path="dynamicProgramming"/>
+	<classpathentry kind="src" path="depthFirstSearch"/>
+	<classpathentry kind="src" path="sorting"/>
+	<classpathentry kind="src" path="notLeetCode"/>
+	<classpathentry kind="src" path="graphs"/>
+	<classpathentry kind="src" path="linkedList"/>
+	<classpathentry kind="src" path="mockInterview"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_181"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
